@@ -229,20 +229,31 @@ console.log(existeSumaDeDos(numeros)); // true
 // Log to console
 console.log(message);
 
-str = 'hello';
-for (i = 0; i < str.length; i++) {
-    console.log(str[i]);
-    if == a
-  else if 
-  else if 
-  else if 
+// str = 'hello';
+// for (i = 0; i < str.length; i++) {
+//     console.log(str[i]);
+//     if == a
+//   else if 
+//   else if 
+//   else if 
   
-}
+// }
 
 // ------================================
+// arr = [];
+// for (i = 1; i <= 100; i++)
+//     if random ===0
+        
+//     arr.push(Math.floor(Math.random() * 100) +1);
+
+
+// // for (i=1;i<=100; i++)
+// 
 arr = [];
-for (i = 1; i <= 100; i++)
-    arr.push(Math.floor(Math.random() * 100));
+
+for (i = 1; i <= 1200; i++)
+    arr.push(Math.round(Math.random() * 99)+1);
 
 // for (i=1;i<=100; i++)
+console.log(arr)
 // 
