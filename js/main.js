@@ -6,7 +6,7 @@ console.log("soy un script externo");
 // Ejercicio #1: Encontrar el número mayor de una lista sin usar Math.max
 
 // Bubble Sort (ordenar de menor a mayor)// -----------------------------------------------------------------
-function Bubble(Nums) {   
+function Bubble(Nums) {
     let flag = false; // Usar 'let' para declarar variables locales
     while (flag === false) {
         flag = true;
@@ -84,7 +84,7 @@ console.log("Lista Final", unOrdered);
 
 console.log("Da un numero de una lista de 100") // -----------------------------------------------------------------
 // Elaborar una función que reciba un número y adivine un número entre el 1 y el 100 en el menor número de pasos posibles
-console.log((Math.floor(Math.random()*100)));
+console.log((Math.floor(Math.random() * 100)));
 
 
 // Elaborar una función que reciba un entero (entre 100 y 200) y determine si es múltiplo de 3// -----------------------------------------------------------------
@@ -215,8 +215,34 @@ console.log(existeSumaDeDos(numeros)); // true
 
 
 
+// //CONTAR VOCALES EN UNA CADENA
+// str = 'hello';
+// for (i = 0; i < str.length; i++) {
+//   console.log(str[i]);
+//   if ==a
+//   else if 
+//   else if 
+//   else if 
 
+// }
 
+// Log to console
+console.log(message);
 
+str = 'hello';
+for (i = 0; i < str.length; i++) {
+    console.log(str[i]);
+    if == a
+  else if 
+  else if 
+  else if 
+  
+}
 
+// ------================================
+arr = [];
+for (i = 1; i <= 100; i++)
+    arr.push(Math.floor(Math.random() * 100));
 
+// for (i=1;i<=100; i++)
+// 
